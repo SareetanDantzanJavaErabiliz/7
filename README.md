@@ -7,3 +7,6 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - EragiketaGeometrikoak: 181. orr.
 - Interfazea: 173. orr.
 - Polimorfismoa: 184. orr.
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
